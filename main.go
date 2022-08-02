@@ -1,6 +1,6 @@
 package main
 
-import "github.com/karuppiah7890/helm-schema-gen/cmd"
+import "github.com/aaronber0614/helm-schema-gen/cmd"
 
 func main() {
   cmd.Execute()
