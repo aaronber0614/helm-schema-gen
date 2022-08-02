@@ -1,9 +1,9 @@
 module github.com/aaronber0614/helm-schema-gen
 
-go 1.13
+go 1.14
 
 require (
-	github.com/aaronber0614/go-jsonschema-generator v0.0.1
+	github.com/aaronber0614/go-jsonschema-generator v0.0.2
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.5 // indirect
 	gopkg.in/yaml.v2 v2.2.7
